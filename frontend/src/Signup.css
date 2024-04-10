@@ -1,6 +1,7 @@
 * {box-sizing: border-box}
 
 /* Add padding to containers */
+
 .container {
   padding: 16px;
 }
@@ -50,5 +51,13 @@ a {
 /* Set a grey background color and center the text of the "sign in" section */
 .signin {
   background-color: #f1f1f1;
+  text-align: center;
+}
+
+.container-signin{
+  margin-top: 30px;
+}
+
+.page-name{
   text-align: center;
 }
